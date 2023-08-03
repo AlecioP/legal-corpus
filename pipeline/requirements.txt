@@ -1,0 +1,3 @@
+PyPDF2
+urllib3
+beautifulsoup4
