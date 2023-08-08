@@ -1,0 +1,5 @@
+wheel
+uuid
+spacy
+scrapy
+
