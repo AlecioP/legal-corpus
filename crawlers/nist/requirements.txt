@@ -1,0 +1,7 @@
+wheel
+scrapy
+scrapy-splash
+uuid
+urllib3
+requests
+beautifulsoup4
